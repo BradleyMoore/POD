@@ -1,0 +1,162 @@
+and
+boolean operator that returns True if both operands are True
+del
+remove an item from a list given its index instead of its value
+from
+can be used as part of an import statement
+not
+boolean operator that returns the oposite of the following boolean operator
+while
+loop that contiues to run until a specified condition is met
+elif
+second or later 'if' in an if statement
+global
+creates a global variable
+or
+boolean operator that only requires one of the operands to be True
+with
+statement that is used to wrap the execution of a block with methods defined by a context manager
+assert
+convenient way to insert debugging assertions into a program
+else
+a catch-all at the end of an if statement
+if
+the first word of an if statement followed by an conditional
+pass
+placeholder argument; does nothing
+yield
+causes a funtion to return a generator
+break
+ends a loop
+except
+in a try statement, runs if an exception occurs
+import
+bring in functions from a module
+print
+prints out to the screen
+class
+a class of objects
+exec
+executes an object
+raise
+re-raises the last exception that was active in the current scope
+continue
+returns to be beginning of a loop
+finally
+always executed before leaving a try statement
+return
+sends the result of a function to whatever called the function
+def
+first word in a function definition
+for
+loop that iterates a set amount of times
+lambda
+an anonymous function
+try
+statement that specifies exception handlers and/or cleanup code for a group of statements
+True
+boolean result that comes from a comparison being true; must be capitalized
+False
+boolean result that comes from a comparison being false; must be capitalized
+None
+represents the absence of a value
+string
+a list of characters
+float
+a floating point number; a double in other languages
+list
+like an array but can hold heterogenous items
+\\
+escapes to a \
+\'
+escapes to a '
+\"
+escapes to a "
+\a
+escapes to a bell
+\b
+escapes to a backspace
+\f
+escapes to a formfeed
+\n
+escapes to a new line
+\r
+escapes to a carriage return
+\t
+escapes to an indent
+\v
+escapes to a vertical tab
+%d
+placeholder for a signed int
+%i
+placeholder for a signed int
+%o
+placeholder for an unsigned int in octal
+%u
+placeholder for an unsigned int
+%x
+placeholder for an unsigned in in hex; lowercase
+%X
+placeholder for an unsigned in in hex; uppercase
+%e
+double value exponent
+%E
+double value exponent
+%f
+double in fixed point notation
+%F
+double in fixed point notation
+%g
+double in either normal or exponential notation
+%G
+double in either normal or exponential notation
+%c
+character (char)
+%r
+placeholder for whatever is there
+%s
+placeholder for a string
++
+addition operator
+-
+subtraction operator
+*
+multiplication operator
+/
+division operator
+%
+modulus operator
+<
+less than operator
+>
+greater than operator
+<=
+lesser than or equal to operator
+>=
+greater than or equal to operator
+==
+"is equal to" comparison operator
+!=
+"is not equal to" comparison operator
+()
+at the end of a function contains arguments or creates a list
+[]
+creates an array
+@
+decorators
+,
+seperates lists
+:
+begins a block of code; at the end of an if, while, or for statement
+.
+applies a funtion to something
+=
+sets a variable equal to something
++=
+increments an amount by a certain number
+-=
+decrements an amount by a certain number
+*=
+increments an amount by a factor of a certain number
+/=
+decrements an amount by a factor of a certain number
